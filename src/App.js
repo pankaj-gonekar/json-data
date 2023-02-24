@@ -8,7 +8,7 @@ function App() {
     <div>
       <Navbar bg="dark" expand="sm" variant='dark'>
         <Container>
-          <Navbar.Brand href='/' >React Bootstrap</Navbar.Brand>
+          <Navbar.Brand href='/' >Json Data</Navbar.Brand>
         </Container>
       </Navbar>
       {/* <Counter /> */}
